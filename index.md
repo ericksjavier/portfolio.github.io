@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Port Scanner Tool](blob/main/C23C12.py)
+[Port Scanner Tool]([blob/main/C23C12.py](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py))
 
 There should be whitespace between paragraphs.
 
