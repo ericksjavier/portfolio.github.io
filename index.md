@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Port Scanner Tool](portfolio.github.io/blob/main/C23C12.py).
 
 There should be whitespace between paragraphs.
 
