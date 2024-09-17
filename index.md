@@ -3,7 +3,7 @@ layout: default
 ---
 
 # **Hello!**
-My name is Erick Javier, I am a Cybersecurity professional since 2024 and these are my current projects.
+My name is Erick Javier, I am a Cybersecurity professional since 2024 and this is a showcase of my current projects!
 
 ## Project 1: Microsoft Azure SIEM using Microsoft Sentinel
 
@@ -11,9 +11,7 @@ Created a Security Operations Center (SOC) environment using Azure and threat in
 
 ![image](https://github.com/user-attachments/assets/d0d854e9-7f18-4b54-98a3-cc7935268e9e)
 
-## Project 2:
-
-# [Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
+## Project 2: [Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
 
 Developed a Python script to perform port scanning and identify network vulnerabilities, enabling further security analysis and mitigation. This project showcases skills in Python programming, network security, and data analysis.
 
@@ -81,72 +79,15 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"An error occurred: {e}")
 ```
+## Project 3: Ethical Hacking
 
-#### Header 4
+## Project 4: Firewall and IDS configuration
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Integrated Snort (IDPS) into the pfSense firewall to bolster network security. The integration process involved installing Snort via the pfSense package manager, configuring it to monitor specific network interfaces, and customizing its rule sets to detect and respond to potential threats. This setup included selecting and applying relevant rule sets, managing updates to keep threat definitions current, and adjusting preprocessor settings to optimize detection capabilities.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+In addition, Snort’s logging and alerting mechanisms were configured to ensure effective notification of detected threats and suspicious activities, with logs being directed to appropriate storage locations and thresholds set for alerts. The configuration was tested to validate its functionality, ensuring Snort’s effectiveness in identifying and addressing network threats. As a result, Snort now actively enhances network security by providing real-time insights and alerts, contributing to a more secure and resilient network environment.
 
 
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
