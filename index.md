@@ -5,13 +5,15 @@ layout: default
 # **Hello!**
 My name is Erick Javier, I am a Cybersecurity professional since 2024 and this is a showcase of my current projects!
 
-## Project 1: Microsoft Azure SIEM using Microsoft Sentinel
+## Project 1: Creating a Secure Virtual Network
+
+## Project 2: Microsoft Azure SIEM using Microsoft Sentinel
 
 Created a Security Operations Center (SOC) environment using Azure and threat intelligence feeds to capture network traffic and security events ingested by the Log Analytics workspace. Implemented Microsoft Sentinel for centralized monitoring and analysis, demonstrating proficiency in cloud security, threat intelligence, and SIEM solutions.
 
 ![image](https://github.com/user-attachments/assets/d0d854e9-7f18-4b54-98a3-cc7935268e9e)
 
-## Project 2: [Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
+## Project 3: [Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
 
 Developed a Python script to perform port scanning and identify network vulnerabilities, enabling further security analysis and mitigation. This project showcases skills in Python programming, network security, and data analysis.
 
@@ -79,9 +81,9 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"An error occurred: {e}")
 ```
-## Project 3: Ethical Hacking
+## Project 4: Ethical Hacking
 
-## Project 4: Firewall and IDS configuration
+## Project 5: Firewall and IDS configuration
 
 Integrated Snort (IDPS) into the pfSense firewall to bolster network security. The integration process involved installing Snort via the pfSense package manager, configuring it to monitor specific network interfaces, and customizing its rule sets to detect and respond to potential threats. This setup included selecting and applying relevant rule sets, managing updates to keep threat definitions current, and adjusting preprocessor settings to optimize detection capabilities.
 
