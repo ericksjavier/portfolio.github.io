@@ -8,6 +8,9 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
+![image](https://github.com/user-attachments/assets/23169aa0-58cd-4e4e-adfa-2c145367bc8d)
+
+
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
