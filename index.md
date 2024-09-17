@@ -5,7 +5,8 @@ layout: default
 # **Hello!**
 My name is Erick Javier, I am a Cybersecurity professional since 2024 and these are my current projects.
 
-[Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
+# [Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
+
 Developed a Python script to perform port scanning and identify network vulnerabilities, enabling further security analysis and mitigation. This project showcases skills in Python programming, network security, and data analysis.
 
 There should be whitespace between paragraphs.
