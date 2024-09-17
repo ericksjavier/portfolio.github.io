@@ -5,38 +5,18 @@ layout: default
 # **Hello!**
 My name is Erick Javier, I am a Cybersecurity professional since 2024 and these are my current projects.
 
+## Project 1: Microsoft Azure SIEM using Microsoft Sentinel
+
+Created a Security Operations Center (SOC) environment using Azure and threat intelligence feeds to capture network traffic and security events ingested by the Log Analytics workspace. Implemented Microsoft Sentinel for centralized monitoring and analysis, demonstrating proficiency in cloud security, threat intelligence, and SIEM solutions.
+
+![image](https://github.com/user-attachments/assets/d0d854e9-7f18-4b54-98a3-cc7935268e9e)
+
+## Project 2:
+
 # [Port Scanner Tool](https://github.com/ericksjavier/portfolio.github.io/blob/main/C23C12.py)
 
 Developed a Python script to perform port scanning and identify network vulnerabilities, enabling further security analysis and mitigation. This project showcases skills in Python programming, network security, and data analysis.
 
-There should be whitespace between paragraphs.
-
-Microsoft Azure SIEM using Microsoft Sentinel
-![image](https://github.com/user-attachments/assets/d0d854e9-7f18-4b54-98a3-cc7935268e9e)
-
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-Port Scanner Tool
 ```python
 import socket
 import datetime
@@ -170,11 +150,11 @@ if __name__ == "__main__":
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Erick</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2000</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>United States</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
