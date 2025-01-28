@@ -7,6 +7,11 @@ My name is Erick Javier, I am a Cybersecurity professional since 2024 and this i
 
 ## Project 1: Creating a Secure Virtual Network
 
+Created a secure virtual network using Oracle VM with successful configurations to connect to the internet.
+
+![image](https://github.com/user-attachments/assets/3ec5f54e-a415-42ab-bc61-8fc491ccd83d)
+
+
 ## Project 2: Microsoft Azure SIEM using Microsoft Sentinel
 
 Created a Security Operations Center (SOC) environment using Azure and threat intelligence feeds to capture network traffic and security events ingested by the Log Analytics workspace. Implemented Microsoft Sentinel for centralized monitoring and analysis, demonstrating proficiency in cloud security, threat intelligence, and SIEM solutions.
