@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
 Performed vulnerability scans and enumerated vulnerabilities between two servers and created backdoor account to look around for files.
 
-https://youtu.be/lCBMDr-m4Tg
+![Watch the video](https://github.com/user-attachments/assets/4677b347-036c-49c9-b445-7a44f78838a1)(https://www.youtube.com/watch?v=lCBMDr-m4Tg)
 
 ## Project 5: Firewall and IDS configuration
 
