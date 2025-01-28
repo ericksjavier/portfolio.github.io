@@ -88,7 +88,7 @@ if __name__ == "__main__":
 ```
 ## Project 4: [Ethical Hacking](https://www.youtube.com/watch?v=lCBMDr-m4Tg)
 
-Performed vulnerability scans and enumerated vulnerabilities between two servers and created backdoor account to look around for files.
+Performed vulnerability scans using Nmap, enumerated vulnerabilities, documented CVE and CVSS numbers between two servers and created backdoor account to look around for files.
 
 ## Project 5: [Firewall and IDS configuration](https://youtu.be/JIQWotc0y1g)
 
