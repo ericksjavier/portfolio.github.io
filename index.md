@@ -88,6 +88,10 @@ if __name__ == "__main__":
 ```
 ## Project 4: Ethical Hacking
 
+Performed vulnerability scans and enumerated vulnerabilities between two servers and created backdoor account to look around for files.
+
+https://youtu.be/lCBMDr-m4Tg
+
 ## Project 5: Firewall and IDS configuration
 
 Integrated Snort (IDPS) into the pfSense firewall to bolster network security. The integration process involved installing Snort via the pfSense package manager, configuring it to monitor specific network interfaces, and customizing its rule sets to detect and respond to potential threats. This setup included selecting and applying relevant rule sets, managing updates to keep threat definitions current, and adjusting preprocessor settings to optimize detection capabilities.
