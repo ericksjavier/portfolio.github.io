@@ -100,13 +100,13 @@ In addition, Snort’s logging and alerting mechanisms were configured to ensure
 <dt>Name</dt>
 <dd>Erick</dd>
 <dt>Born</dt>
-<dd>2000</dd>
+<dd>June 5th 2000</dd>
 <dt>Birthplace</dt>
-<dd>United States</dd>
+<dd>Albuquerque, New Mexico</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
 
 ```
-Life is all about love.
+"Do not go gentle into that good night. Old age should burn and rave at close of day. Rage, rage against the dying of the light." 
 ```
