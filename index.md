@@ -108,5 +108,5 @@ In addition, Snort’s logging and alerting mechanisms were configured to ensure
 </dl>
 
 ```
-"Do not go gentle into that good night. Old age should burn and rave at close of day. Rage, rage against the dying of the light." 
+Do not go gentle into that good night. Old age should burn and rave at close of day. Rage, rage against the dying of the light.
 ```
