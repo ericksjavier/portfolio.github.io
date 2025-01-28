@@ -98,7 +98,7 @@ Integrated Snort (IDPS) into the pfSense firewall to bolster network security. T
 
 In addition, Snort’s logging and alerting mechanisms were configured to ensure effective notification of detected threats and suspicious activities, with logs being directed to appropriate storage locations and thresholds set for alerts. The configuration was tested to validate its functionality, ensuring Snort’s effectiveness in identifying and addressing network threats. As a result, Snort now actively enhances network security by providing real-time insights and alerts, contributing to a more secure and resilient network environment.
 
-
+![Watch the video](https://youtu.be/JIQWotc0y1g)
 
 <dl>
 <dt>Name</dt>
