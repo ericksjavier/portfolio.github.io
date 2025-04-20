@@ -1,7 +1,7 @@
-# Pwnagotchi: A Wi-Fi Sniffing AI Companion
+# Pwnagotchi: Wi-Fi Sniffing AI Companion
 **Pwnagotchi** is an AI-powered tool that passively collects Wi-Fi handshakes to help with WPA/WPA2 network auditing.
 
-This page documents my setup, experiments, and learnings with my Pwnagotchi.
+This page documents my setup, experiments, and learnings with Pwnagotchi for educational cybersecurity purposes.
 
 ## SETUP
 
