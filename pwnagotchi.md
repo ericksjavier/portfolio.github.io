@@ -8,7 +8,7 @@ This page documents my setup, experiments, and learnings with Pwnagotchi for edu
 Hardware:
 - Raspberry Pi Zero 2 W
 - Waveshare E-Paper HAT+
-- PNY 32gb microSD
+- 32gb microSD
 
 Software:
 - [jayofelony Pwnagotchi image](https://github.com/jayofelony/pwnagotchi)
@@ -16,9 +16,11 @@ The original Pwnagotchi project is no longer actively maintained, so I'm using a
 - [Project Pwnag0dchi](https://github.com/SHUR1K-N/Project-Pwnag0dchi)
 I'm installing Pwnag0dchi to take advantage of the extra features the plugins offer. This fork adds quality-of-life improvements and new functionality that aren't available in the original version.
 - [RPi imager](https://www.raspberrypi.com/software/)
-You can use Balena etcher too.
-After I connected the Waveshare display onto the Rpi02W's GPIO headers, I  
-
+  
+## Learnings
+-Pwnagotchi wasn't booting properly, tried different images to no avail but realized something in the config.toml was messing up the booting process.
+-Was able to boot in auto mode but device wouldn't be found in network connections even with RSIND driver installed.
+-After replugging the USB the Pi would boot but the display would switch and freeze and the device would become unresponsive.
 ## Experiments
 
-## Learnings
+
