@@ -100,6 +100,10 @@ In addition, Snort’s logging and alerting mechanisms were configured to ensure
 
 Built a 
 
+## Project 7: Bjorn 
+
+As part of my hands-on cybersecurity learning, I deployed and customized Bjørn — Bjorn is a network scanning and offensive security tool built for Raspberry Pi, designed to identify hosts, scan for vulnerabilities, and execute attacks like brute-force or data exfiltration. It features a 2.13-inch e-Paper HAT+ display for status updates and a web interface for remote control and monitoring. With modular architecture and built-in automation, it serves as a compact, portable cybersecurity toolkit.
+
 <dl>
 <dt>Name</dt>
 <dd>Erick</dd>
