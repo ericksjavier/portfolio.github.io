@@ -14,13 +14,14 @@ Software:
 - [jayofelony Pwnagotchi image](https://github.com/jayofelony/pwnagotchi)
 The original Pwnagotchi project is no longer actively maintained, so I'm using a community-updated fork by Jayofelony. This version is optimized for the Raspberry Pi Zero 2 W by removing the AI component, which improves stability, increases uptime, and extends battery life.
 - [Project Pwnag0dchi](https://github.com/SHUR1K-N/Project-Pwnag0dchi)
-I'm installing Pwnag0dchi to take advantage of the extra features the plugins offer. This fork adds quality-of-life improvements and new functionality that aren't available in the original version.
+Modifying with Pwnag0dchi for extra features for network testing.
 - [RPi imager](https://www.raspberrypi.com/software/)
   
 ## Learnings
--Pwnagotchi wasn't booting properly, tried different images to no avail but realized something in the config.toml was messing up the booting process.
--Was able to boot in auto mode but device wouldn't be found in network connections even with RSIND driver installed.
--After replugging the USB the Pi would boot but the display would switch and freeze and the device would become unresponsive.
+- Pwnagotchi wasn't booting properly, tried different images to no avail but realized something in the config.toml was messing up the booting process.
+- Was able to boot in auto mode but device wouldn't be found in network connections even with RSIND driver installed.
+- After replugging the USB the Pi would boot but the display would switch and freeze and the device would become unresponsive.
+
 ## Experiments
 
 
