@@ -102,7 +102,7 @@ Built a
 
 ## Project 7: [Bjorn]
 
-As part of my hands-on cybersecurity learning, I deployed and customized Bjørn — Bjorn is a network scanning and offensive security tool built for Raspberry Pi, designed to identify hosts, scan for vulnerabilities, and execute attacks like brute-force or data exfiltration. It features a 2.13-inch e-Paper HAT+ display for status updates and a web interface for remote control and monitoring. With modular architecture and built-in automation, it serves as a compact, portable cybersecurity toolkit.
+As part of my hands-on cybersecurity learning, I deployed and customized Bjorn. Bjorn is a network scanning and offensive security tool built for Raspberry Pi, designed to identify hosts, scan for vulnerabilities, and execute attacks like brute-force or data exfiltration. Mine features a 2.13-inch e-Paper HAT+ display for status updates and a web interface for remote control and monitoring. With modular architecture and built-in automation, it serves as a compact, portable cybersecurity toolkit.
 
 ![IMG_6681 (1)](https://github.com/user-attachments/assets/272a529e-84e8-4e3f-a13b-954576d1eae7)
 
