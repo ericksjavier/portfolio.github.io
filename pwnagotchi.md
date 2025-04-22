@@ -19,7 +19,7 @@ Modifying with Pwnag0dchi for extra features for network testing.
   
 ## Learnings
 - Pwnagotchi wasn't booting properly, tried different images to no avail but realized something in the config.toml was messing up the booting process.
-- Was able to boot in auto mode but device wouldn't be found in network connections even with RSIND driver installed.
+- Was able to boot in auto mode but device wouldn't be found in network connections even with RSIND driver installed, BUT working as usual.
 - After replugging the USB the Pi would boot but the display would switch and freeze and the device would become unresponsive.
 
 ## Experiments
