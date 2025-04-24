@@ -21,7 +21,11 @@ Modifying with Pwnag0dchi for extra features for network testing.
 - Pwnagotchi wasn't booting properly, tried different images to no avail but realized something in the config.toml was messing up the booting process.
 - Was able to boot in auto mode but device wouldn't be found in network connections even with RSIND driver installed, BUT working as usual.
 - After replugging the USB the Pi would boot but the display would switch and freeze and the device would become unresponsive.
+- Trying to understand why Pi wouldn't work when connecting to PC via data port. Either my PC would bluescreen or the Pi would become unresponsive.
+- Figured out that my motherboard couldn't handle the load, so I connected the Pi to a portable power bank, then connected to PC via data port, then the PC was able to detect the Pi as a RNDIS device.
+- Able to assign static IP to the device and was able to SSH in.
 
 ## Experiments
-
+- Trying to add Pwnag0dchi plugins.
+- 
 
