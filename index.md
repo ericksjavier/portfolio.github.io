@@ -109,6 +109,8 @@ As part of my hands-on cybersecurity learning, I deployed and customized Bjorn. 
 
 ![IMG_6681 (1)](https://github.com/user-attachments/assets/272a529e-84e8-4e3f-a13b-954576d1eae7)
 
+## Project 8: Unifi Express 7 VLAN setup
+
 
 <dl>
 <dt>Name</dt>
