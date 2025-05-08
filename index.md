@@ -98,7 +98,10 @@ In addition, Snort’s logging and alerting mechanisms were configured to ensure
 
 ## Project 6: [Pwnagotchi](pwnagotchi.md)
 
-Built a 
+Built a customized Pwnagotchi using the Jayofelony image and Pwnag0dchi plugins, with a custom-designed interface for my personal preference. This project involved hardware assembly, firmware customization, and software configuration to enhance wireless network reconnaissance capabilities.
+
+![IMG_6781](https://github.com/user-attachments/assets/98df402b-8e70-482c-b6f5-93672122547a)
+
 
 ## Project 7: Bjorn
 
