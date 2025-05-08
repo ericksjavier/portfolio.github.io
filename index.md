@@ -5,7 +5,7 @@ layout: default
 # **Hello!**
 My name is Erick Javier, I am an aspiring Cybersecurity professional since 2024 and this is a showcase of my current projects!
 
-## Project 1: Creating a Secure Virtual Network
+## Project 1: [Creating a Secure Virtual Network](https://github.com/user-attachments/assets/3ec5f54e-a415-42ab-bc61-8fc491ccd83d)
 
 Created a secure virtual network using Oracle VM with successful configurations to connect to the internet.
 
