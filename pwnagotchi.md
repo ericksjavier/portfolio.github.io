@@ -16,6 +16,7 @@ The original Pwnagotchi project is no longer actively maintained, so I'm using a
 - [Project Pwnag0dchi](https://github.com/SHUR1K-N/Project-Pwnag0dchi)
 Modifying with Pwnag0dchi for extra features for network testing.
 - [RPi imager](https://www.raspberrypi.com/software/)
+- [FileZilla](https://filezilla-project.org/)
   
 ## Learnings
 - Pwnagotchi wasn't booting properly, tried different images to no avail but realized something in the config.toml was messing up the booting process.
@@ -27,5 +28,5 @@ Modifying with Pwnag0dchi for extra features for network testing.
 
 ## Experiments
 - Trying to add Pwnag0dchi plugins.
-- 
+- Customized UI
 
